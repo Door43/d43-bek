@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bek:home|Door43 (bek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bek|d43-bek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bek/archive/master.zip|d43-bek.zip]]
+
+**Recent Changes**
+{{changes>ns = bek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bek|Ethnologue data]]
+
